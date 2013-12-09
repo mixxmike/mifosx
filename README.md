@@ -70,3 +70,7 @@ Video Demonstration
 ===============
 
 Demonstration of first Prototype of this platform with browser App (April 2012) - http://www.youtube.com/watch?v=zN5Dn1Lc_js
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/vishwasbabu/mifosx/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
